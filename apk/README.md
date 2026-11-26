@@ -39,7 +39,7 @@ adb install -r OpenClone-0.4.1-debug.apk
 - This APK contains no ads, no tracking, and no network access.
 - The APK in this folder is committed to Git for convenience, which is not ideal
   practice. When you build a new one, do not pile APKs up here: upload it to the
-  [Releases](https://github.com/Nbill27/openclone/releases) page or use the
+  [Releases](https://github.com/bicknickiticky/openclone/releases) page or use the
   GitHub Actions artifact, then update just this one file.
 
 ## Building a new APK

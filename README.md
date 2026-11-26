@@ -10,22 +10,22 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Nbill27/openclone/releases/latest/download/app-debug.apk"><b>⬇ Download the latest APK</b></a>
+  <a href="https://raw.githubusercontent.com/bicknickiticky/openclone/main/apk/OpenClone-0.4.1-debug.apk"><b>⬇ Download the latest APK</b></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/Nbill27/openclone/releases">All releases</a>
+  <a href="https://github.com/bicknickiticky/openclone/releases">All releases</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/Nbill27/openclone">Source code</a>
+  <a href="https://github.com/bicknickiticky/openclone">Source code</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Nbill27/openclone/actions/workflows/build.yml"><img alt="Build" src="https://github.com/Nbill27/openclone/actions/workflows/build.yml/badge.svg"></a>
-  <a href="https://github.com/Nbill27/openclone/releases"><img alt="Latest release" src="https://img.shields.io/github/v/release/Nbill27/openclone?label=release&color=ffffff&labelColor=242424"></a>
+  <a href="https://github.com/bicknickiticky/openclone/actions/workflows/build.yml"><img alt="Build" src="https://github.com/bicknickiticky/openclone/actions/workflows/build.yml/badge.svg"></a>
+  <a href="https://github.com/bicknickiticky/openclone/releases"><img alt="Latest release" src="https://img.shields.io/github/v/release/bicknickiticky/openclone?label=release&color=ffffff&labelColor=242424"></a>
   <img alt="Platform: Android" src="https://img.shields.io/badge/platform-Android-3DDC84?logo=android&logoColor=white">
   <img alt="Minimum Android: 8.0" src="https://img.shields.io/badge/minAndroid-8.0%20(API%2026)-242424">
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-1.9.24-7F52FF?logo=kotlin&logoColor=white">
   <a href="LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-ffffff?labelColor=242424"></a>
   <img alt="No ads" src="https://img.shields.io/badge/ads-none-242424">
-  <a href="https://github.com/Nbill27/openclone/releases"><img alt="Downloads" src="https://img.shields.io/github/downloads/Nbill27/openclone/total?label=downloads&color=ffffff&labelColor=242424"></a>
+  <a href="https://github.com/bicknickiticky/openclone/releases"><img alt="Downloads" src="https://img.shields.io/github/downloads/bicknickiticky/openclone/total?label=downloads&color=ffffff&labelColor=242424"></a>
 </p>
 
 ---
@@ -97,11 +97,11 @@ The result screen reports what may affect the clone instead of leaving you to gu
 
 ## Download
 
-Get the latest build from the [Releases page](https://github.com/Nbill27/openclone/releases/latest).
+Get the latest build from the [Releases page](https://github.com/bicknickiticky/openclone/releases/latest).
 
 | Option | Details |
 |---|---|
-| Latest release | [Download OpenClone-0.4.1-debug.apk](https://github.com/Nbill27/openclone/releases/latest) |
+| Latest release | [Download OpenClone-0.4.1-debug.apk](https://raw.githubusercontent.com/bicknickiticky/openclone/main/apk/OpenClone-0.4.1-debug.apk) |
 | APK included in the repository | [`apk/OpenClone-0.4.1-debug.apk`](apk/OpenClone-0.4.1-debug.apk) |
 | Build from source | Follow [Build from source](#build-from-source) |
 
@@ -220,7 +220,7 @@ Use **Settings → Kunci Penandatangan → Ekspor kunci** to save a password-pro
 ### Build a debug APK
 
 ```bash
-git clone https://github.com/Nbill27/openclone.git
+git clone https://github.com/bicknickiticky/openclone.git
 cd openclone
 ./gradlew assembleDebug
 ```

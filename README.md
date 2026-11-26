@@ -37,6 +37,8 @@
 | <img src="docs/images/01-daftar-aplikasi.png" width="260" alt="OpenClone app list"> | <img src="docs/images/02-konfigurasi-clone.png" width="260" alt="OpenClone clone configuration"> |
 | **Clone history** | **Settings** |
 | <img src="docs/images/03-riwayat-clone.png" width="260" alt="OpenClone clone history"> | <img src="docs/images/04-pengaturan.png" width="260" alt="OpenClone settings"> |
+| **Batch clone configuration** | **Batch cloning in progress** |
+| <img src="docs/images/05-batch-clone-config.png" width="260" alt="OpenClone batch clone configuration"> | <img src="docs/images/06-batch-clone-progress.png" width="260" alt="OpenClone batch cloning in progress"> |
 
 ---
 
